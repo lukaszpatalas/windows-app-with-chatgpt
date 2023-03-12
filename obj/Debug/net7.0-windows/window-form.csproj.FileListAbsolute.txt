@@ -1,0 +1,15 @@
+C:\Users\lpata\repos\window-form\bin\Debug\net7.0-windows\window-form.exe
+C:\Users\lpata\repos\window-form\bin\Debug\net7.0-windows\window-form.deps.json
+C:\Users\lpata\repos\window-form\bin\Debug\net7.0-windows\window-form.runtimeconfig.json
+C:\Users\lpata\repos\window-form\bin\Debug\net7.0-windows\window-form.dll
+C:\Users\lpata\repos\window-form\bin\Debug\net7.0-windows\window-form.pdb
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.csproj.AssemblyReference.cache
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.AssemblyInfoInputs.cache
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.AssemblyInfo.cs
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.csproj.CoreCompileInputs.cache
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.dll
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\refint\window-form.dll
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.pdb
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\window-form.genruntimeconfig.cache
+C:\Users\lpata\repos\window-form\obj\Debug\net7.0-windows\ref\window-form.dll

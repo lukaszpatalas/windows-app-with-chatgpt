@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lpata\\repos\\WindowsApp\\WindowsApp.csproj",
-      "projectName": "WindowsApp",
-      "projectPath": "C:\\Users\\lpata\\repos\\WindowsApp\\WindowsApp.csproj",
+      "projectUniqueName": "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj",
+      "projectName": "window-form",
+      "projectPath": "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj",
       "packagesPath": "C:\\Users\\lpata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lpata\\repos\\WindowsApp\\obj\\",
+      "outputPath": "C:\\Users\\lpata\\repos\\window-form\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lpata\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MFMtX5MkGxr7ywQPfmxcY1B6XnlzpcfKpzXcKM18sk7hfoQOsofQelZMeYyVkADu0xqsOA7r4pzX79mESt+0FA==",
+  "dgSpecHash": "OoPcj11n4dBzFQNm/lSP6rsj4K/gfyyJQ2f2Mab+IxbsuXcf+4CgFFfayfSCATP8nYRAsvNxWpQZ/74/XwCPVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lpata\\repos\\WindowsApp\\WindowsApp.csproj",
+  "projectFilePath": "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
