@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj": {}
+    "C:\\Users\\lpata\\repos\\windows-app-with-chatgpt\\window-form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj": {
+    "C:\\Users\\lpata\\repos\\windows-app-with-chatgpt\\window-form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj",
+        "projectUniqueName": "C:\\Users\\lpata\\repos\\windows-app-with-chatgpt\\window-form.csproj",
         "projectName": "window-form",
-        "projectPath": "C:\\Users\\lpata\\repos\\window-form\\window-form.csproj",
+        "projectPath": "C:\\Users\\lpata\\repos\\windows-app-with-chatgpt\\window-form.csproj",
         "packagesPath": "C:\\Users\\lpata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lpata\\repos\\window-form\\obj\\",
+        "outputPath": "C:\\Users\\lpata\\repos\\windows-app-with-chatgpt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lpata\\AppData\\Roaming\\NuGet\\NuGet.Config"
