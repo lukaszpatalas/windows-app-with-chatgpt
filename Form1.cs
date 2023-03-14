@@ -1,3 +1,6 @@
+using OpenAI_API;
+using System.Threading.Tasks;
+
 namespace window_form;
 
 public partial class Form1 : Form
