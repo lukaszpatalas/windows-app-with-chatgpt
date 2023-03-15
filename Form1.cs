@@ -28,7 +28,7 @@ public partial class Form1 : Form
     private void button1_Click(object sender, EventArgs e)
     {
         Label label = new Label();
-        label.Text = "Kocham Ilonke i inne czokodylki rubadylki";
+        label.Text = "Asco and Total";
         label.AutoSize = true;
         label.Location = new Point(button1.Location.X, button1.Location.Y + button1.Height + 10);
         this.Controls.Add(label);
