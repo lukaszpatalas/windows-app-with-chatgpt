@@ -28,3 +28,7 @@ C:\Users\lpata\repos\windows-app-with-chatgpt\obj\Debug\net7.0-windows\refint\wi
 C:\Users\lpata\repos\windows-app-with-chatgpt\obj\Debug\net7.0-windows\window-form.pdb
 C:\Users\lpata\repos\windows-app-with-chatgpt\obj\Debug\net7.0-windows\window-form.genruntimeconfig.cache
 C:\Users\lpata\repos\windows-app-with-chatgpt\obj\Debug\net7.0-windows\ref\window-form.dll
+C:\Users\lpata\repos\windows-app-with-chatgpt\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lpata\repos\windows-app-with-chatgpt\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\lpata\repos\windows-app-with-chatgpt\bin\Debug\net7.0-windows\OpenAI_API.dll
+C:\Users\lpata\repos\windows-app-with-chatgpt\obj\Debug\net7.0-windows\window-form.csproj.CopyComplete
